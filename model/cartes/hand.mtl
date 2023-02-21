@@ -1,0 +1,106 @@
+# Blender 3.3.0 MTL File: 'hand.blend'
+# www.blender.org
+
+newmtl BACK_VIEW.004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ./Image Infographie/chandra_back.jpg
+
+newmtl BACK_VIEW.010
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ./Image Infographie/chandra_back.jpg
+
+newmtl BACK_VIEW.012
+Ns 490.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ./Image Infographie/chandra_back.jpg
+map_Bump -bm 1.000000 ./Image Infographie/chandra_back_normal.png
+
+newmtl BACK_VIEW.014
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ./Image Infographie/chandra_back.jpg
+map_Ks ./Image Infographie/chandra_back_specular.jpg
+
+newmtl BACK_VIEW.015
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ./Image Infographie/card_back.jpg
+
+newmtl FRONT_VIEW.005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ./Image Infographie/chandra_front.jpg
+
+newmtl FRONT_VIEW.006
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ./Image Infographie/chandra_front.jpg
+
+newmtl FRONT_VIEW.009
+Ns 490.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ./Image Infographie/chandra_front.jpg
+map_Bump -bm 1.000000 ./Image Infographie/chandra_front_normal.png
+
+newmtl FRONT_VIEW.011
+Ns 490.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ./Image Infographie/chandra_front.jpg
+map_Ks ./Image Infographie/chandra_front_specular.png
+
+newmtl FRONT_VIEW.013
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ./Image Infographie/Forest.png

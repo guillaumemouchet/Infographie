@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" href="css/stylesheet.css">
+    <title>Demo - Load a 3D model</title>
+</head>
+<body>
+<script type="module" src="js/DemoObj3dModel.js"></script>
+<script type="module">
+    import {displayTitle} from "./js/tools/commonFunctions.js";
+
+    displayTitle("Demo - Load a 3D model");
+</script>
+
+<br>
+
+<!-- webgl canvas -->
+<canvas id="webgl-canvas" width="1280" height="720">
+    HTML5 is not supported
+</canvas>
+
+<div id="gui" style="float: right; min-width: 200px"></div>
+
+</body>
+</html>

@@ -1,0 +1,22 @@
+# Blender 3.3.0 MTL File: 'chandra_specular.blend'
+# www.blender.org
+
+newmtl BACK_VIEW.011
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ./Image Infographie/chandra_back.jpg
+map_Ks ./Image Infographie/chandra_back_specular.jpg
+
+newmtl FRONT_VIEW.012
+Ns 490.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ./Image Infographie/chandra_front.jpg
+map_Ks ./Image Infographie/chandra_front_specular.png
